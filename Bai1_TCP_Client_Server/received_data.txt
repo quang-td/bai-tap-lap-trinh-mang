@@ -1,3 +1,0 @@
-Hello Server
-Test messsage
-Testing TCP connection
