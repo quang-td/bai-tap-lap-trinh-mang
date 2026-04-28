@@ -1,5 +1,0 @@
-admin admin
-guest 1111
-user1 pass1
-duc quang
-soict hust
